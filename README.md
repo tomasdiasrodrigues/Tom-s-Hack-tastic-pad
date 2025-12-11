@@ -1,4 +1,4 @@
-# Tom's Hack-tastic Pad 🎓✨
+# Tom's Hack-tastic Pad 
 
 **4-key macropad for students with Pomodoro & Quick Notes**
 
