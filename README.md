@@ -30,22 +30,13 @@ You can start/stop a Pomodoro, create quick notes, and open the Notes app with a
 
 ## 🖼️ Screenshots
 
-### Overall Hackpad
 ![Overall Hackpad](images/overall.png)
-
-### Schematic
 ![Schematic](images/schematic.png)
-
-### PCB
 ![PCB](images/pcb.png)
-
-### Case & Assembly
 ![Case & Assembly](images/case.png)
-
-### Bottom (Fundo da placa)
 ![Bottom](images/bottom.png)
 
-> **Tip:** replace these images with your own screenshots or renders if needed.
+
 
 ---
 
