@@ -40,13 +40,16 @@ You can start/stop a Pomodoro, create quick notes, and open the Notes app with a
 
 ## 🛠️ Bill of Materials (BOM)
 
-| Part | Quantity | Notes |
-|------|---------|------|
-| Seeed XIAO RP2040 | 1 | Main microcontroller |
-| Mechanical switches | 4 | For keys |
-| Keycaps | 4 | Standard size |
-| Wires / connectors | As needed | For connections |
-| 3D-printed case | 1 | Printed using the CAD files |
+Please see the **BOM.csv** file for all parts used.  
+
+Current parts include:
+
+- XIAO RP2040 DIP (microcontroller)  
+- 4x SW_Push (keyboard switches)  
+- 2x SK6812 MINI LEDs (RGB/neopixels)  
+- Optional: Display (can be added later if needed)  
+- Wires / connectors  
+- 3D-printed case  
 
 ---
 
