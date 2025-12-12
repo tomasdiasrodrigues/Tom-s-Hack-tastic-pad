@@ -1,0 +1,6 @@
+XIAO RP2040 DIP,1,Main microcontroller
+SW_Push,4,Mechanical switches for keys
+SK6812 MINI LED,2,RGB LEDs (neopixels)
+Optional: Display,1,Could be added later if needed
+Wires / connectors,As needed,For wiring connections
+3D-printed case,1,Printed using CAD files
