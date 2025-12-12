@@ -9,11 +9,11 @@ You can start/stop a Pomodoro, create quick notes, and open the Notes app with a
 
 ## 📁 Project Structure
 
-- **Firmware/** → main.py  
-- **CAD/** → CAD files  
-- **PCB/** → PCB files  
-- **images/** → screenshots  
-- **README.md** → this file
+- **Firmware/** → `main.py`  
+- **CAD/** → Case CAD files (STEP)  
+- **PCB/** → PCB design files (KiCad)  
+- **images/** → Screenshots and renders  
+- **README.md** → This file
 
 ---
 
@@ -28,14 +28,13 @@ You can start/stop a Pomodoro, create quick notes, and open the Notes app with a
 
 ---
 
-![Overall Hackpad](overall.png)
-![Schematic](schematic.png)
-![PCB](pcb.png)
-![Case & Assembly](case.png)
-![Bottom](bottom.png)
+## 📸 Project Images
 
-
-
+![Overall Hackpad](images/overall.png)
+![Schematic](images/schematic.png)
+![PCB](images/pcb.png)
+![Case & Assembly](images/case.png)
+![Bottom](images/bottom.png)
 
 ---
 
@@ -47,12 +46,12 @@ You can start/stop a Pomodoro, create quick notes, and open the Notes app with a
 | Mechanical switches | 4 | For keys |
 | Keycaps | 4 | Standard size |
 | Wires / connectors | As needed | For connections |
-| 3D-printed case | 1 | Printed using your CAD files |
+| 3D-printed case | 1 | Printed using the CAD files |
 
 ---
 
 ## ⚡ How It Works
 
-- Firmware written in **KMK + CircuitPython** for **RP2040**  
-- Each key triggers **macros** simulating computer actions  
+- Firmware written in **KMK + CircuitPython** for **RP2040**
+- Each key triggers **macros** simulating computer actions
 - Even without hardware, `main.py` shows the full logic of the macropad
